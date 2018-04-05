@@ -24,3 +24,19 @@ https://channel9.msdn.com/Events/Build/2016/Docker-Tooling-for-Visual-Studio-and
 
 
 ------------------ Docker ----------------------------
+
+
+
+
+
+------------------ Vue.js ----------------------------
+Official: https://vuejs.org/
+
+Docs: https://vuejs.org/v2/guide/
+
+Learning: https://www.vuemastery.com/
+
+TOP 10 open source: https://medium.mybridge.co/vue-js-top-10-open-source-for-the-past-month-v-mar-2018-1e4f923e4578
+
+
+------------------ Vue.js ----------------------------
