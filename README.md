@@ -4,11 +4,34 @@
     
 ## Table of Contents
 
+- [.Net Developer Tools](#net-developer-tools)
 - [Vue.js](#vuejs)
 - [Docker](#docker)
 - [Networking](#networking)
 - [UI Design](#ui-design)
 - [Blogs](#blogs)
+
+
+## .Net Developer Tools
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |                                              
+| [Visual Studio and Visual Studio Code	](https://visualstudio.microsoft.com/)                                                            |  The most advanced development environment for .NET                                              
+| [LINQPad](https://www.linqpad.net/)                                                            | LINQPad is not just for LINQ queries, but any C#/F#/VB expression, statement block or program.
+| [JSON Formatter](https://jsonformatter.curiousconcept.com/)                                                            | Quickly validates, formats and presents a nicely structured JSON output.
+| [ScreenToGif](https://www.screentogif.com/)                                                            | Screen, webcam and sketchboard recorder with an integrated editor.
+| [Notepad++](https://notepad-plus-plus.org/)                                                            | Notepad++ is a free source code editor and Notepad replacement that supports several languages.
+| [Postman](https://www.postman.com/)                                                            | Postman is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
+| [PNGGauntlet](https://pnggauntlet.com/)                                                            | PNGGauntlet lets you create the smallest possible sized PNGs with no loss in quality and you can optimize images in batches.
+| [Fiddler](https://www.telerik.com/fiddler)                                                            | PWeb debugging proxy tool to log all HTTP(S) traffic between your computer and the Internet. Inspect traffic, set breakpoints, and fiddle with request/response.
+| [NuGet Package Explorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer)                                                            | You can quickly browse a previously unknown feed, download NuGet packages to the disk and even create packages manually.
+| [Regex101](https://regex101.com/)                                                            | Great online tool for writing and debugging regular expressions. 
+| [JSFiddle](https://jsfiddle.net/)                                                            | JS live code collaboration and code snippet hosting
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 
 ## Vue.js
 
