@@ -7,7 +7,7 @@
 - [Vue.js](#vuejs)
 - [Docker](#docker)
 - [Networking](#networking)
-
+- [UI Design](#ui-design)
 
 ## Vue.js
 
@@ -43,6 +43,17 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [ngrok](https://ngrok.com/)                                                            | One command for an instant, secure URL to your localhost server through any NAT or firewall.
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
+## UI Design
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Brad Traversy](https://github.com/bradtraversy/design-resources-for-developers/blob/master/readme.md)                                                            | A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
