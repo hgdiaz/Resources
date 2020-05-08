@@ -5,7 +5,8 @@
 ## Table of Contents
 
 - [.Net Developer Tools](#net-developer-tools)
-- [Visual Studio Extensions](#visual.studio-extensions)
+- [Visual Studio Extensions](#visual-studio-extensions)
+- [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Vue.js](#vuejs)
 - [Docker](#docker)
 - [Networking](#networking)
@@ -49,6 +50,28 @@
 | [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)                                                            | VSColorOutput can change the color of a line emitted to the output window based on specified rules. 
 | [Glyphfriend](https://marketplace.visualstudio.com/items?itemName=RionWilliams.Glyphfriend2019)                                                            | Glyphfriend is a Visual Studio extension to enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries like Font Awesome, Material Design, Octicons, and more.
                                   
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
+
+## Visual Studio Code Extensions
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)                                                            | C# for Visual Studio Code (powered by OmniSharp).
+| [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)                                                            | Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.                                              
+| [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)                                                            | Auto rename paired HTML/XML tag.
+| [Visual Studio Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)                                                            | Popular Visual Studio keybindings for VS Code.
+| [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)                                                            | Spelling checker for source code.
+| [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)                                                            | Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.
+| [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)                                                            | Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more.
+| [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)                                                            | CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
+| [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)                                                            | REST Client for Visual Studio Code
+| [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)                                                            | highlight TODOs, FIXMEs, and any keywords, annotations.
+| [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)                                                            | Brings filetype icons into Code.
+                     
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
