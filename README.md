@@ -1,4 +1,4 @@
-# Resources For Developers .Net Developers
+# Resources For .Net Developers
 
 #### Please read `contributing guidelines` before submitting new resources.
     
