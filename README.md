@@ -5,11 +5,13 @@
 ## Table of Contents
 
 - [.Net Developer Tools](#net-developer-tools)
+- [Visual Studio Extensions](#visual.studio-extensions)
 - [Vue.js](#vuejs)
 - [Docker](#docker)
 - [Networking](#networking)
 - [UI Design](#ui-design)
 - [Blogs](#blogs)
+
 
 
 ## .Net Developer Tools
@@ -28,6 +30,25 @@
 | [Regex101](https://regex101.com/)                                                            | Great online tool for writing and debugging regular expressions. 
 | [JSFiddle](https://jsfiddle.net/)                                                            | JS live code collaboration and code snippet hosting
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
+## Visual Studio Extensions
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Power Commands](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.PowerCommandsforVisualStudio)                                                            | PowerCommands is a set of useful extensions for the Visual Studio IDE, including Remove and Sort Usings, Copy Path and Open Command Prompt.                                              
+| [elmah.io](https://marketplace.visualstudio.com/items?itemName=elmahio.elmahio)                                                            | Browse your elmah.io logs from within Visual Studio.
+| [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=elmahio.elmahio)                                                            | An editor extension that checks the spelling of comments, strings, and plain text as you type or interactively with a tool window.
+| [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)                                                            | Adds icons for files that are not recognized by Solution Explorer
+| [Image Optimizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ImageOptimizer)                                                            | Uses industry standard tools to optimize any JPEG, PNG and Gifs - including animated Gifs. Can do both lossy and lossless optimization.
+| [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)                                                            | This is an extension bundle installer that will install each of the individual components of Productivity Power Tools for Visual Studio 2017 and 2019
+| [Web Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017)                                                            | The easiest way to set up Visual Studio for the ultimate web development experience. Requires Visual Studio 2017 Update 8 or newer
+| [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)                                                            | VSColorOutput can change the color of a line emitted to the output window based on specified rules. 
+| [Glyphfriend](https://marketplace.visualstudio.com/items?itemName=RionWilliams.Glyphfriend2019)                                                            | Glyphfriend is a Visual Studio extension to enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries like Font Awesome, Material Design, Octicons, and more.
+                                  
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
