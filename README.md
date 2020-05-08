@@ -7,6 +7,7 @@
 - [.Net Developer Tools](#net-developer-tools)
 - [Visual Studio Extensions](#visual-studio-extensions)
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
+- [Blazor](#blazor)
 - [Vue.js](#vuejs)
 - [Docker](#docker)
 - [Networking](#networking)
@@ -75,6 +76,28 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+
+## Blazor
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Official](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)                                                            | Blazor lets you build interactive web UIs using C# instead of JavaScript.                                              
+| [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor)                                                            |  A collection of awesome Blazor resources.
+| [Radzen Blazor Components](https://razor.radzen.com/)                                                            |  Radzen Blazor Components is a free set of 40+ native Blazor UI controls.
+| [DevExpress UI for Blazor](https://www.devexpress.com/blazor/)                                                            |  DevExpress UI for Blazor ships with over 15 UI components (including a Data Grid, Pivot Grid, Scheduler and Charts) so you can design rich user experiences for both Blazor server-side and Blazor client-side platforms.                                         
+| [Blazored](https://github.com/Blazored)                                                            | Libraries and Components designed for Microsoft's Blazor Framework  
+| [Blazorise](https://blazorise.com/)                                                            | Blazorise is a frontend components library built on top of Blazor and CSS frameworks like Bootstrap, Bulma, AntDesign and Material.
+| [MatBlazor](https://www.matblazor.com/)                                                            | Material Design components for Blazor
+| [Blazor University](https://blazor-university.com/)                                                            | Learn from complete novice through to expert in all things Blazor.
+| [Blazor - app building workshop](https://github.com/dotnet-presentations/blazor-workshop)                                                            |  Workshop: build a complete Blazor app and learn about the various Blazor framework features along the way.
+| [Jon Hilton](https://jonhilton.net/use-blazor-in-existing-app)                                                            |  Use Blazor in your existing ASP.NET Core 3.x application
+| [Stavros Kasidis](https://github.com/stavroskasidis/BlazorWithIdentity)                                                            |  A sample project showcasing a blazor app using ef core with identity
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 
 
 ## Vue.js
