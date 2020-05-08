@@ -1,42 +1,46 @@
-# Resources
-Resources for SW development
+# Resources For Developers .Net Developers
+
+#### Please read `contributing guidelines` before submitting new resources.
+    
+## Table of Contents
+
+- [Vue.js](#vue.js)
+- [Docker](#docker)
+- [Networking](#networking)
 
 
------------------- Docker ----------------------------
+## Vue.js
 
-Official: https://www.docker.com/
-
-Docs: https://docs.docker.com
-
-Store: https://store.docker.com
-
-
-Videos
-
-Modernizing .NET Apps for Developers - part 1: https://www.youtube.com/watch?v=yksOaJ7wZRY
-
-Microsoft
-
-https://www.docker.com/microsoft
-
-https://channel9.msdn.com/Events/Build/2016/Docker-Tooling-for-Visual-Studio-and-ASPNET-Core
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Official](https://vuejs.org/)                                                            | The Progressive JavaScript Framework                                               
+| [Vue Mastery](https://www.vuemastery.com/)                                                            |  Learning resource for Vue developers                                               
+|
 
 
+## Docker
 
------------------- Docker ----------------------------
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Official](https://www.docker.com/)                                                            | Package Software into Standardized Units for Development, Shipment and Deployment                                 |
+| [Youtube](https://www.youtube.com/watch?v=yksOaJ7wZRY)                                                           | Modernizing .NET Apps for Developers - Part 1            |
+| [Youtube](https://www.youtube.com/watch?v=O23Gl7QDhFs&t=16s)                                                           | Modernizing .NET Apps for Developers - Part 2            |
+| [Youtube](https://www.youtube.com/watch?v=zqfK_3cGZpI)                                                           | Modernizing .NET Apps for Developers - Part 3            |
+| [Youtube](https://www.youtube.com/watch?v=JcVQcC_0uuk&t=10s)                                                           | Modernizing .NET Apps for Developers - Part 4            |
+| [Youtube](https://www.youtube.com/watch?v=ZTGSB9vI_8o&t=26s)                                                           | Modernizing .NET Apps for Developers - Part 5            |
+| [Channel 9](https://channel9.msdn.com/Events/Build/2016/Docker-Tooling-for-Visual-Studio-and-ASPNET-Core)                                                           | Docker Tooling for Visual Studio and ASP.NET Core            |
+|
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 
+## Networking
 
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [ngrok](https://ngrok.com/)                                                            | One command for an instant, secure URL to your localhost server through any NAT or firewall.                                               |
 
-
------------------- Vue.js ----------------------------
-Official: https://vuejs.org/
-
-Docs: https://vuejs.org/v2/guide/
-
-Learning: https://www.vuemastery.com/
-
-TOP 10 open source: https://medium.mybridge.co/vue-js-top-10-open-source-for-the-past-month-v-mar-2018-1e4f923e4578
-
-
------------------- Vue.js ----------------------------
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
