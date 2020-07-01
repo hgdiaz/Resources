@@ -93,7 +93,7 @@
 | [Blazor - app building workshop](https://github.com/dotnet-presentations/blazor-workshop)                                                            |  Workshop: build a complete Blazor app and learn about the various Blazor framework features along the way.
 | [Jon Hilton](https://jonhilton.net/use-blazor-in-existing-app)                                                            |  Use Blazor in your existing ASP.NET Core 3.x application
 | [Stavros Kasidis](https://github.com/stavroskasidis/BlazorWithIdentity)                                                            |  A sample project showcasing a blazor app using ef core with identity
-| [Chris Sainty]([https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/](https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/))                                                            |  # Authentication with client-side Blazor using WebAPI and ASP.NET Core Identity [https://github.com/chrissainty/AuthenticationWithClientSideBlazor](https://github.com/chrissainty/AuthenticationWithClientSideBlazor)
+| [Chris Sainty](https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/)                                                           |  # Authentication with client-side Blazor using WebAPI and ASP.NET Core Identity [https://github.com/chrissainty/AuthenticationWithClientSideBlazor](https://github.com/chrissainty/AuthenticationWithClientSideBlazor)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -178,9 +178,9 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [CORS]([https://stackoverflow.com/questions/57140759/blazor-request-blocked-by-cors-policy](https://stackoverflow.com/questions/57140759/blazor-request-blocked-by-cors-policy))                                                            | Blazor Request blocked by CORS policy
-| [CORS]([https://stackoverflow.com/questions/43262121/trying-to-use-fetch-and-pass-in-mode-no-cors](https://stackoverflow.com/questions/43262121/trying-to-use-fetch-and-pass-in-mode-no-cors))                                                            | Trying to use fetch and pass in mode: no-cors
-| [[cors-anywhere](https://github.com/Rob--W/cors-anywhere)]                                                          | CORS Anywhere is a NodeJS proxy which adds CORS headers to the proxied request.
+| [CORS](https://stackoverflow.com/questions/57140759/blazor-request-blocked-by-cors-policy)                                                         | Blazor Request blocked by CORS policy
+| [CORS](https://stackoverflow.com/questions/43262121/trying-to-use-fetch-and-pass-in-mode-no-cors)                                                          | Trying to use fetch and pass in mode: no-cors
+| [cors-anywhere](https://github.com/Rob--W/cors-anywhere)                                                          | CORS Anywhere is a NodeJS proxy which adds CORS headers to the proxied request.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
