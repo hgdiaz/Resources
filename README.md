@@ -13,6 +13,8 @@
 - [Networking](#networking)
 - [UI Design](#ui-design)
 - [Blogs](#blogs)
+- [Issues](#issues)
+
 
 
 
