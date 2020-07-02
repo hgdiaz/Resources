@@ -8,6 +8,7 @@
 - [Visual Studio Extensions](#visual-studio-extensions)
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Blazor](#blazor)
+- [Xamarin](#xamarin)
 - [Vue.js](#vuejs)
 - [Docker](#docker)
 - [Networking](#networking)
@@ -96,6 +97,19 @@
 | [Jon Hilton](https://jonhilton.net/use-blazor-in-existing-app)                                                            |  Use Blazor in your existing ASP.NET Core 3.x application
 | [Stavros Kasidis](https://github.com/stavroskasidis/BlazorWithIdentity)                                                            |  A sample project showcasing a blazor app using ef core with identity
 | [Chris Sainty](https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/)                                                           |  # Authentication with client-side Blazor using WebAPI and ASP.NET Core Identity [https://github.com/chrissainty/AuthenticationWithClientSideBlazor](https://github.com/chrissainty/AuthenticationWithClientSideBlazor)
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
+
+## Xamarin
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Official](https://dotnet.microsoft.com/apps/xamarin)                                                            | An app platform for building Android and iOS apps with .NET and C#.                                               
+| [NativeScript Image Builder](http://nsimage.brosteins.com/)                                                            |  Helps you re-size your Android and iOS image assets                                               
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
