@@ -97,6 +97,7 @@
 | [Jon Hilton](https://jonhilton.net/use-blazor-in-existing-app)                                                            |  Use Blazor in your existing ASP.NET Core 3.x application
 | [Stavros Kasidis](https://github.com/stavroskasidis/BlazorWithIdentity)                                                            |  A sample project showcasing a blazor app using ef core with identity
 | [Chris Sainty](https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/)                                                           |  # Authentication with client-side Blazor using WebAPI and ASP.NET Core Identity [https://github.com/chrissainty/AuthenticationWithClientSideBlazor](https://github.com/chrissainty/AuthenticationWithClientSideBlazor)
+| [Blazor Fiddle](https://blazorfiddle.com/)                                                           |  jsfiddle.net for Blazor
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
